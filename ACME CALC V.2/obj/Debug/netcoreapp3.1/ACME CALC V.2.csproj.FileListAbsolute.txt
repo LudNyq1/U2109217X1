@@ -13,3 +13,4 @@ C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.csproj.C
 C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.dll
 C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.pdb
 C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.genruntimeconfig.cache
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.csproj.AssemblyReference.cache

@@ -28,69 +28,31 @@ namespace ACME_CALC_V._2
             
             double i = double.Parse(txt1.Text);
             double j = double.Parse(txt2.Text);
+            double answer = 0;
             switch ((sender as Button).Text)
             {
                 case "+":
-                    double ansAdd = calc.Add(i, j);
-                    AnswerAdd(i, j, (sender as Button).Text, ansAdd);
+                    answer = calc.Add(i, j);
+                    
                     break;
                 case "-":
-                    double ansSub = calc.Sub(i, j);
-                    AnswerAdd(i, j, (sender as Button).Text, ansSub);
+                    answer = calc.Sub(i, j);
                     break;
                 case "*":
-                    double ansMult = calc.Mult(i, j);
-                    AnswerAdd(i, j, (sender as Button).Text, ansMult);
+                    answer = calc.Mult(i, j);
                     break;
                 case "/":
-                    double ansDiv = calc.Div(i, j);
-                    AnswerAdd(i, j, (sender as Button).Text, ansDiv);
+                    answer = calc.Div(i, j);
                     break;
-
             }
+
+            AnswerAdd(i, j, (sender as Button).Text, answer);
+
         }
         public void AnswerAdd(double i, double j, string operation, double answer)
         {
             listAns.Items.Add($"{i } {operation} {j} = {answer}");
         }
-
-        /*private void AddBtn_Click(object sender, EventArgs e)
-        {
-
-            double i = double.Parse(txt1.Text);
-            double j = double.Parse(txt2.Text);
-            double answer = calc.Add(i, j);
-
-            AnswerAdd(i, j,(sender as Button).Text, answer);
-        }
-
-        private void SubBtn_Click(object sender, EventArgs e)
-        {
-            double i = double.Parse(txt1.Text);
-            double j = double.Parse(txt2.Text);
-            double answer = calc.Sub(i, j);
-
-            AnswerAdd(i, j, (sender as Button).Text, answer);
-        }
-
-        private void MultBtn_Click(object sender, EventArgs e)
-        {
-            double i = double.Parse(txt1.Text);
-            double j = double.Parse(txt2.Text);
-            double answer = calc.Mult(i, j);
-
-            AnswerAdd(i, j, (sender as Button).Text, answer);
-        }
-
-        private void DivBtn_Click(object sender, EventArgs e)
-        {
-            double i = double.Parse(txt1.Text);
-            double j = double.Parse(txt2.Text);
-            double answer = calc.Div(i, j);
-
-            AnswerAdd(i, j, (sender as Button).Text, answer);
-        }*/
-
 
     }
 }

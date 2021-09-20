@@ -55,7 +55,6 @@ namespace ACME_CALC_V._2
             this.AddBtn.TabIndex = 1;
             this.AddBtn.Text = "+";
             this.AddBtn.UseVisualStyleBackColor = true;
-            this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
             // 
             // SubBtn
             // 
@@ -65,7 +64,6 @@ namespace ACME_CALC_V._2
             this.SubBtn.TabIndex = 2;
             this.SubBtn.Text = "-";
             this.SubBtn.UseVisualStyleBackColor = true;
-            this.SubBtn.Click += new System.EventHandler(this.SubBtn_Click);
             // 
             // MultBtn
             // 
@@ -75,7 +73,6 @@ namespace ACME_CALC_V._2
             this.MultBtn.TabIndex = 3;
             this.MultBtn.Text = "*";
             this.MultBtn.UseVisualStyleBackColor = true;
-            this.MultBtn.Click += new System.EventHandler(this.MultBtn_Click);
             // 
             // DivBtn
             // 
@@ -85,7 +82,6 @@ namespace ACME_CALC_V._2
             this.DivBtn.TabIndex = 4;
             this.DivBtn.Text = "/";
             this.DivBtn.UseVisualStyleBackColor = true;
-            this.DivBtn.Click += new System.EventHandler(this.DivBtn_Click);
             // 
             // txt1
             // 

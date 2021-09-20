@@ -1,0 +1,15 @@
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.exe
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.deps.json
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.runtimeconfig.json
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.runtimeconfig.dev.json
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.dll
+C:\Csharp\U210917X1\ACME CALC V.2\bin\Debug\netcoreapp3.1\ACME CALC V.2.pdb
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME_CALC_V._2.Form1.resources
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.csproj.GenerateResource.cache
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.AssemblyInfoInputs.cache
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.AssemblyInfo.cs
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.csproj.CoreCompileInputs.cache
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.dll
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.pdb
+C:\Csharp\U210917X1\ACME CALC V.2\obj\Debug\netcoreapp3.1\ACME CALC V.2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Csharp\U210917X1\ACME CALC V2.0\obj\Debug\netcoreapp3.1\ACME CALC V2.0.csproj.AssemblyReference.cache
+C:\Csharp\U210917X1\ACME CALC V2.0\obj\Debug\netcoreapp3.1\ACME CALC V2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\U210917X1\ACME CALC V2.0\obj\Debug\netcoreapp3.1\ACME CALC V2.0.AssemblyInfoInputs.cache
+C:\Csharp\U210917X1\ACME CALC V2.0\obj\Debug\netcoreapp3.1\ACME CALC V2.0.AssemblyInfo.cs
+C:\Csharp\U210917X1\ACME CALC V2.0\obj\Debug\netcoreapp3.1\ACME CALC V2.0.csproj.CoreCompileInputs.cache
